@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  @yield('script')
+  {{-- @yield('script') --}}
   @include('layouts.script')
 </body>
 
